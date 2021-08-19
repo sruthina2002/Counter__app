@@ -1,0 +1,13 @@
+*{
+  margin :0;
+padding :0;
+}
+body {
+  height: 100vh;
+   background-image: linear-gradient(to right top, #07144f, #042d6b, #004786, #0061a0, #007db9, #008cc2, #009aca, #00a9d1, #00adcb, #00b0c2, #00b3b9, #27b5af);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
